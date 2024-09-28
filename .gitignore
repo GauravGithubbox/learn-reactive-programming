@@ -1,0 +1,48 @@
+# Compiled code
+*.class
+*.o
+*.exe
+*.out
+
+# Dependency directories
+/node_modules
+/vendor
+/lib
+
+# Build directories
+/build
+/dist
+/out
+/target
+
+# IDE files
+.idea/
+/.vscode/
+/*.sublime-project
+*.swp
+
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Environment files
+.env
+.env.local
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*~
+
+# Documentation
+*.pdf
+
+# Test outputs
+/coverage
+/reports
